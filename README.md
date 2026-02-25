@@ -42,7 +42,7 @@ I'm a Computer Science student at Reichman University and an aspiring Full Stack
 
 ### 📊 GitHub Stats
 
-![Ron's GitHub Stats](https://github-readme-stats-five-rho-53.vercel.app/api?username=rondahan04&count_private=true)
+[![Ron Dahan's GitHub Stats](https://github-readme-stats-five-rho-53.vercel.app/api?username=rondahan04&count_private=true&include_all_commits=true)](https://github.com/rondahan04)
 
 ![Top Langs](https://github-readme-stats-five-rho-53.vercel.app/api/top-langs/?username=rondahan04&layout=compact&theme=radical)
 
