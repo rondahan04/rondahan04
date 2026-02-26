@@ -31,7 +31,7 @@ I'm a Computer Science student at Reichman University and an aspiring Full Stack
 
 ### 🚀 Featured Projects
 
-#### 📱 [Trades App](https://github.com/rondahan04/TradesApp)
+#### 📱 [Trades App](https://github.com/rondahan04/Trades)
 *An iPhone mobile application built from the ground up.*
 - **Tech:** Xcode, AI Code Generation
 - **Key Feature:** End-to-end development and implementation driven entirely by AI (using Cursor).
