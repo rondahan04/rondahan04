@@ -31,6 +31,11 @@ I'm a Computer Science student at Reichman University and an aspiring Full Stack
 
 ### 🚀 Featured Projects
 
+#### 📱 [Trades App](https://github.com/rondahan04/TradesApp)
+*An iPhone mobile application built from the ground up.*
+- **Tech:** Xcode, AI Code Generation
+- **Key Feature:** End-to-end development and implementation driven entirely by AI (using Cursor).
+
 #### 🎓 [Runi Session Manager](https://github.com/rondahan04/AutoReloader)
 *A Chrome Extension (Manifest V3) that automates session persistence for university portals.*
 - **Tech:** JavaScript, Service Workers, Chrome Alarms API
