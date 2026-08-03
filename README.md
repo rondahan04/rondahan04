@@ -59,26 +59,26 @@ Currently working on computer vision pipelines, LLM-backed scrapers, and a React
 
 ### Projects
 
-**[ScrapeGoat](https://github.com/rondahan04/shopping_websites_scraper)** — Price comparison across retailers, run as an async job with live progress.
+**[ScrapeGoat](https://github.com/rondahan04/shopping_websites_scraper)** - Price comparison across retailers, run as an async job with live progress.
 Four-stage extraction fallback (httpx to BeautifulSoup to Playwright to LLM), fuzzy matching with an LLM verification pass.
 `Python` `FastAPI` `Playwright` `Next.js` `OpenAI`
 
-**[Table Tennis Analyzer](https://github.com/rondahan04/TableTennisAnalyzer)** — Video in, shot-speed and rally statistics out.
+**[Table Tennis Analyzer](https://github.com/rondahan04/TableTennisAnalyzer)** - Video in, shot-speed and rally statistics out.
 Player tracking with YOLOv8, a custom-trained ball detector, and OCR on the scoreboard instead of rally segmentation.
 `Python` `Ultralytics YOLOv8` `OpenCV` `EasyOCR` `React`
 
-**[Icy Tower + Neuroevolution AI](https://github.com/rondahan04/icy_tower)** — A physics platformer written from scratch, then a network evolved to play it.
+**[Icy Tower + Neuroevolution AI](https://github.com/rondahan04/icy_tower)** - A physics platformer written from scratch, then a network evolved to play it.
 Fixed-timestep loop, hand-rolled physics, object pooling, three input modes including webcam hand tracking. The [AI side](https://github.com/rondahan04/icy_neural_network) runs a headless copy of the game and evolves weights rather than training them.
 `Vanilla JS` `HTML5 Canvas` `MediaPipe` `Keras on JAX` `FastAPI`
 
-**[PlantAI](https://github.com/rondahan04/PlantAI)** — Photograph a sick houseplant, get a species ID, a diagnosis, and nearby nurseries.
+**[PlantAI](https://github.com/rondahan04/PlantAI)** - Photograph a sick houseplant, get a species ID, a diagnosis, and nearby nurseries.
 Two specialised models rather than one general one, plus a critic pass over scraped nursery data because extraction hallucinated.
 `React Native` `Expo` `TypeScript` `PlantNet` `Claude` `Google Places`
 
-**[PR-Merge](https://github.com/rondahan04/PR-Merge)** — Swipe-based code review game over generated pull requests.
+**[PR-Merge](https://github.com/rondahan04/PR-Merge)** - Swipe-based code review game over generated pull requests.
 `Next.js` `TypeScript` `Zustand` `Prism`
 
-**[Runi Session Manager](https://github.com/rondahan04/AutoReloader)** — Chrome extension (Manifest V3) that keeps university portal sessions alive.
+**[Runi Session Manager](https://github.com/rondahan04/AutoReloader)** - Chrome extension (Manifest V3) that keeps university portal sessions alive.
 Solves the 15-minute timeout with a service worker and the Chrome Alarms API.
 `JavaScript` `Service Workers`
 
